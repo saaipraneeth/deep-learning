@@ -51,4 +51,4 @@ This repo contains all my work for this specialization. All the code base, quiz 
 
 ## Milestones
 
-  - **2018-06-17**: Finished the first-released 3 courses, YAY! 😈
+  - **2018-06-17**: Finished the 5 courses, YAY! 😈
